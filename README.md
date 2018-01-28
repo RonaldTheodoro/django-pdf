@@ -1,0 +1,1 @@
+https://codeburst.io/django-render-html-to-pdf-41a2b9c41d16
